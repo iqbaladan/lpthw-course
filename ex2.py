@@ -1,3 +1,5 @@
+# Exercise 2 from Learning Python The Hardway
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
 

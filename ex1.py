@@ -1,4 +1,5 @@
 # Exercise 1 from Learning Python The Hardway
+
 print "Hello world!"
 print "Hello Again"
 print "I like typing this."
